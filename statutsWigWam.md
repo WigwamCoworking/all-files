@@ -20,7 +20,7 @@ Sans exclusive à toute autre action dans la poursuite de l'objet général éno
 ## Article 3 : Siège social
 
 Le siège social est fixe au 14 rue de Beauchamp, 22300 Lannion
-Il pourra être transféré par simple décision du bureau.
+Il pourra être transféré par simple décision du Conseil d'Administration.
 
 
 ## Article 4 : Durée
@@ -65,11 +65,11 @@ le défaut de paiement de la cotisation
 la radiation prononcée par le Conseil d'Administration
 
 
-## Article 9 : Bureau
+## Article 9 : Mandataires
 
-L’Association est représentée et gérée par un Bureau composé a minima d’un Président et d'un Trésorier, élus par le Conseil d’Administration pour une durée de 1 année renouvelable. Le Bureau met en œuvre les orientations stratégiques données par le Conseil d’Administration.
+L’Association peut désigner des Mandataires afin d'assurer certaines fonctions (représentation, trésorerie), ils sont élus par le Conseil d’Administration pour une durée de 1 année renouvelable. Les Mandataires mettent en œuvre les orientations stratégiques données par le Conseil d’Administration.
 
-Le nombre de membres du Bureau nécessaire est laissé à l’appréciation du Conseil d'Administration.
+Le nombre de membres Mandataires nécessaire est laissé à l’appréciation du Conseil d'Administration.
 Les membres sortants sont rééligibles.
 
 
@@ -81,7 +81,7 @@ Le Conseil d’Administration est composé de :
 ▪ de 3 à 15 Membres actifs au plus élus en Assemblée Générale, avec voix délibérative,
 
 Il délibère et statue collégialement à la majorité des voix présentes ou représentées avec un quorum de la moitie (50%) des membres ou représentés.
-En cas de partage, la voix du Président est prépondérante.
+En cas de partage, la voix du plus ancien membre est prépondérante.
 
 Les membres élus du Conseil d'Administration sont élus pour trois ans par l’Assemblée Générale et choisis en son sein.
 Le renouvellement des membres se fait par tiers chaque année à main levée. Un tirage au sort désignera le premier tiers.
@@ -93,7 +93,7 @@ Pour l’élection du Conseil d'Administration, seuls les membres à jour de leu
 Le Conseil d’Administration peut se réunir à l’aide de tout moyen de réunion à distance (conférence téléphonique, réunion virtuelle, etc.)
 
 Le Conseil d'Administration :
-nomme et révoque le Bureau,
+nomme et révoque des Mandataires,
 rédige ou valide le rapport annuel présenté à l’Assemblée Générale,
 autorise les adhésions à l'Association et décide les exclusions de membres,
 peut convoquer à tout moment une Assemblée, en décide l’ordre du jour et le texte des résolutions soumises au vote de l’Assemblée
@@ -107,9 +107,9 @@ Et toutes autres décisions qu'il juge nécessaire à la vie de l'Association
 L’Assemblée Générale Ordinaire comprend tous les membres de l'Association à quelque titre qu'ils soient.
 Elle se réunit une fois par an.
 
-Quinze jours au moins avant la date fixée, les membres de l'Association sont convoqués, par tout moyen, par les soins du Secrétaire si il existe, du Président sinon. L'ordre du jour figure sur les convocations.
-Le Président, assisté des membres du Conseil d'Administration, préside l’Assemblée et expose la situation morale ou l’activité de l'Association.
-Le Trésorier rend compte de sa gestion et soumet les comptes annuels (bilan,compte de résultat et annexe) à l'approbation de l’Assemblée.
+Quinze jours au moins avant la date fixée, les membres de l'Association sont convoqués, par tout moyen, par les soins du Mandataires si il existe, du Conseil d'Administration sinon. L'ordre du jour figure sur les convocations.
+Un Mandataire, assisté des membres du Conseil d'Administration, préside l’Assemblée et expose la situation morale ou l’activité de l'Association.
+Le Mandataire à la trésorerie rend compte de sa gestion et soumet les comptes annuels (bilan,compte de résultat et annexe) à l'approbation de l’Assemblée.
 L’Assemblée Générale fixe le montant des cotisations annuelles et du droit d’entrée à verser par les différentes catégories de membres.
 Seuls les points inscrits à l'ordre du jour peuvent faire l'objet de prise de résolutions.
 
@@ -123,7 +123,7 @@ Les décisions des Assemblées Générales s’imposent à tous les membres, y c
 
 ## Article 12 : Assemblée Générale Extraordinaire
 
-Si besoin est, ou sur la demande d'un quart plus un des membres inscrits, le Président peut convoquer une Assemblée Générale Extraordinaire, suivant les modalités prévues aux présents statuts et uniquement pour modification des statuts ou la dissolution ou pour des actes portant sur des immeubles.
+Si besoin est, ou sur la demande d'un quart plus un des membres inscrits, le Conseil d'Administration peut convoquer une Assemblée Générale Extraordinaire, suivant les modalités prévues aux présents statuts et uniquement pour modification des statuts ou la dissolution ou pour des actes portant sur des immeubles.
 Les modalités de convocation sont les mêmes que pour l’Assemblée Générale Ordinaire.
 Les délibérations sont prises à la majorité des membres présents.
 
